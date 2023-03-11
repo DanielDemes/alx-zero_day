@@ -1,0 +1,13 @@
+#!/bin/bash
+echo "ALX"
+ALX
+school>>alx
+echo ALX>>alx
+touch school
+
+
+
+
+echo school
+ALX
+school
